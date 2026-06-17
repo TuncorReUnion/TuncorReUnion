@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tuncor! 👋
 
-<!--
-**TuncorReUnion/TuncorReUnion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 TLAC Developer
 
-Here are some ideas to get you started:
+**Account Recovery Notice:**
+- ❌ Old Account: [@TuncorNewAc](https://github.com/TuncorNewAc) (Locked - Lost 2FA)
+- ✅ New Account: @TuncorReUnion (Active)
+- 📧 Same Developer, Same Email: tuncor957@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔥 TLAC (The Local Anti-Cheat)
+**New Home:** [TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED](https://github.com/TuncorReUnion/TLAC-MODERN-LOCAL-ANTI-CHEAT-REUNIONED)
+
+- Rust-based Linux anti-cheat
+- 100% Open-Source (MIT License)
+- Privacy-focused, local-only
+
+## 📧 Contact
+- Email: tuncor865@gmail.com (primary)
+- Old Email: tuncor957@gmail.com (will be transferred)
